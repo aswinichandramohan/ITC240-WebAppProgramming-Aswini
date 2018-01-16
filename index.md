@@ -1,3 +1,7 @@
+## Aswini Chandramohan
+## Winter 2018
+## ITC240
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/aswinichandramohan/ITC240-Winter2018-Aswini/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
