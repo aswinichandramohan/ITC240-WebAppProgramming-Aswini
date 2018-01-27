@@ -16,4 +16,4 @@
 - [x] Signed up for Dreamhost
 - [x] Create php page using date function
 
-- URL: http://aswinichandramohan.com/itc240/sandbox/assignment_1.php
+- URL: [Output of assignment 2](http://aswinichandramohan.com/itc240/sandbox/assignment_1.php)
