@@ -26,3 +26,9 @@
 - Template 2: 
   - Output: [http://aswinichandramohan.com/itc240/sandbox/template2/template.php](http://aswinichandramohan.com/itc240/sandbox/template2/template.php)
   - Template used: [Link](https://startbootstrap.com/template-overviews/one-page-wonder/)
+  
+  ### Assignment 4 - Troubleshooting
+  - [x] Repaired adder.php
+  - Output: [http://aswinichandramohan.com/itc240/sandbox/adder.php]
+ (http://aswinichandramohan.com/itc240/sandbox/adder.php)
+   
