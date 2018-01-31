@@ -29,6 +29,5 @@
   
 ### Assignment 4 - Troubleshooting
 - [x] Repaired adder.php
-- Output: [http://aswinichandramohan.com/itc240/sandbox/adder.php]
- (http://aswinichandramohan.com/itc240/sandbox/adder.php)
+- Output: [http://aswinichandramohan.com/itc240/sandbox/adder.php](http://aswinichandramohan.com/itc240/sandbox/adder.php)
    
