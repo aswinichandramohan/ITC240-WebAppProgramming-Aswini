@@ -31,3 +31,8 @@
 - [x] Repaired adder.php
 - Output: [http://aswinichandramohan.com/itc240/sandbox/adder.php](http://aswinichandramohan.com/itc240/sandbox/adder.php)
    
+### Assignment 5 - Email Formhandlers
+- Contact page: [http://aswinichandramohan.com/itc240/sandbox/coffee/template1/contact.php](http://aswinichandramohan.com/itc240/sandbox/coffee/template1/contact.php)
+- Register page (compound form): [http://aswinichandramohan.com/itc240/sandbox/coffee/template1/register.php](http://aswinichandramohan.com/itc240/sandbox/coffee/template1/register.php)
+#### Extra Credit
+- Recaptcha page: [http://aswinichandramohan.com/itc240/sandbox/coffee/template1/contact-recaptcha.php](http://aswinichandramohan.com/itc240/sandbox/coffee/template1/contact-recaptcha.php)
