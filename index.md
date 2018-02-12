@@ -38,5 +38,5 @@
 - Recaptcha page: [http://aswinichandramohan.com/itc240/sandbox/coffee/template1/contact-recaptcha.php](http://aswinichandramohan.com/itc240/sandbox/coffee/template1/contact-recaptcha.php)
 
 ### Assignment 6- Adminer
--Installed the PHP application:[http://aswinichandramohan.com/itc240/sandbox/adminer.php]
+- Installed the PHP application: [http://aswinichandramohan.com/itc240/sandbox/adminer.php]
 (http://aswinichandramohan.com/itc240/sandbox/adminer.php)
