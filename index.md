@@ -37,5 +37,8 @@
 #### Extra Credit
 - Recaptcha page: [http://aswinichandramohan.com/itc240/sandbox/coffee/template1/contact-recaptcha.php](http://aswinichandramohan.com/itc240/sandbox/coffee/template1/contact-recaptcha.php)
 
-### Assignment 6- Adminer
+### Assignment 6 - Adminer
 - Installed the PHP application: [http://aswinichandramohan.com/itc240/sandbox/adminer.php](http://aswinichandramohan.com/itc240/sandbox/adminer.php)
+
+### Assignment 7 - Dynamic Content
+- Dynamic content: [http://aswinichandramohan.com/itc240/assignment-7/daily.php](http://aswinichandramohan.com/itc240/assignment-7/daily.php)
