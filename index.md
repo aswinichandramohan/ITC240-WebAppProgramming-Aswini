@@ -42,3 +42,6 @@
 
 ### Assignment 7 - Dynamic Content
 - Dynamic content: [http://aswinichandramohan.com/itc240/assignment-7/daily.php](http://aswinichandramohan.com/itc240/assignment-7/daily.php)
+
+### Assignment 8 - List/View
+-List/View page attached: [http://aswinichandramohan.com/itc240/assignment_8/widgets/index.php](http://aswinichandramohan.com/itc240/assignment_8/widgets/index.php)
