@@ -50,3 +50,6 @@
 - Working application: [http://aswinichandramohan.com/itc240/assignment_9/index.php](http://aswinichandramohan.com/itc240/assignment_9/index.php)
 - Github repo: [https://github.com/aswinichandramohan/itc240-widgets-1](https://github.com/aswinichandramohan/itc240-widgets-1)
 
+### Assignment 10 - Pager
+- Paging application: [http://aswinichandramohan.com/itc240/assignment_10/widgets/index.php](http://aswinichandramohan.com/itc240/assignment_10/widgets/index.php)
+
